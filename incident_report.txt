@@ -1,0 +1,27 @@
+
+Mini Incident Report
+====================
+
+Project: Log Analysis and Alerting Simulation
+Date: 13 May 2025
+Analyst: Deadbeat Saint
+
+Objective:
+----------
+To simulate basic log analysis and alerting on a sample authentication log using a custom Python Script
+
+Summary of Findings:
+--------------------
+- Total Failed Login Attempts: 5
+- Top Suspicious IPs:
+    - [192.168.1.10] - 2 attempts
+    - [203.0.113.55] - 2 attempts
+- Hour with highest activity: 2'pm
+
+Recommendations:
+- Block top offending IPs at the firewall level. 
+
+Conclusion:
+The script succesfully parsed logs and extracted key threat indicators llike brute-force attempts and peak alert times.
+Further enhancements may include real-time monitoring and automated alerting. 
+

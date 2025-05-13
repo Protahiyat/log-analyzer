@@ -1,0 +1,9 @@
+==== Log Analysis Results ====
+Total Failed Login Attempts: 5
+
+Top 5 IPs by Activity: 
+192.168.1.10: 2 attempts
+203.0.113.55: 2 attempts
+198.51.100.23: 1 attempts
+
+Hour with Most Alerts: 14

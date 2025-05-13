@@ -1,0 +1,11 @@
+Jul 10 14:22:33 kali sshd[1423]: Failed password for invalid user admin from 192.168.1.10 port 44211 ssh2
+Jul 10 14:22:35 kali sshd[1423]: Failed password for root from 192.168.1.10 port 44211 ssh2
+Jul 10 14:22:37 kali sshd[1423]: Accepted password for kali from 192.168.1.15 port 51820 ssh2
+Jul 10 14:25:03 kali sudo:    kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/bin/ls
+Jul 10 15:10:22 kali sshd[1442]: Failed password for root from 203.0.113.55 port 44212 ssh2
+Jul 10 15:45:22 kali sshd[1442]: Failed password for root from 203.0.113.55 port 44212 ssh2
+Jul 10 16:33:51 kali sshd[1456]: Failed password for invalid user test from 198.51.100.23 port 33333 ssh2
+Jul 10 16:35:14 kali sshd[1456]: Failed password for invalid user test 198.51.100.23 port 33333 ssh2
+Jul 10 17:00:12 kali sshd[1456]: Accepted password for root from 192.168.1.15 port 52234 ssh2
+Jul 10 18:01:45 kali sudo:    kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/usr/bin/python3
+
