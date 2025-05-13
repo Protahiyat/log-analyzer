@@ -8,7 +8,6 @@ A beginner-friendly log analysis script built in Python to simulate a basic log 
 - Flags potentially suspicious log entries (like failed logins, root access attempts, etc.)
 - Generates a clean, readable alert report (`output.txt`)
 
-This is a foundational exercise to get comfortable with analyzing system logs — something every SOC analyst and security nerd will need down the road.
 
 ## 📁 Files
 
